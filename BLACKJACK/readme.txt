@@ -1,0 +1,1 @@
+need pygame package
